@@ -1,0 +1,959 @@
+[
+  {
+    "tourism": {
+      "cash": {
+        "buySpread": 0,
+        "buyTariff": 0,
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "minimalFace": 20
+      },
+      "card": {
+        "buySpread": 0,
+        "buyTariff": 0,
+        "saleSpread": 0,
+        "saleTariff": 0
+      },
+      "activeCard": true,
+      "activeCash": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e2f",
+    "code": 220,
+    "description": "DOLAR DOS ESTADOS UNIDOS",
+    "isoCode": "USD",
+    "isActive": true,
+    "isChips": false,
+    "updatedAt": "2023-11-08T19:41:24.357Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e30",
+    "code": 978,
+    "description": "EURO",
+    "isoCode": "EUR",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:26.965Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e31",
+    "code": 540,
+    "description": "LIBRA ESTERLINA",
+    "isoCode": "GBP",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:27.666Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e32",
+    "code": 165,
+    "description": "DOLAR CANADENSE",
+    "isoCode": "CAD",
+    "isActive": false,
+    "isChips": true,
+    "updatedAt": "2023-11-07T17:52:29.053Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e33",
+    "code": 150,
+    "description": "DOLAR AUSTRALIANO",
+    "isoCode": "AUD",
+    "isActive": false,
+    "isChips": true,
+    "updatedAt": "2023-11-07T17:52:30.595Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "buySpread": 0,
+        "buyTariff": 0,
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "minimalFace": 5
+      },
+      "card": {
+        "buySpread": 0,
+        "buyTariff": 0,
+        "saleSpread": 0,
+        "saleTariff": 0
+      },
+      "activeCard": true,
+      "activeCash": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e34",
+    "code": 145,
+    "description": "DIRHAM/EMIR.ARABE",
+    "isoCode": "AED",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-08T19:42:27.128Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e35",
+    "code": 15,
+    "description": "BATH/TAILANDIA",
+    "isoCode": "THB",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:33.069Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e36",
+    "code": 30,
+    "description": "BOLIVIANO/BOLIVIA",
+    "isoCode": "BOB",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:34.455Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10,
+        "saleSpread": 0,
+        "saleTariff": 0
+      },
+      "card": {
+        "buySpread": 0,
+        "buyTariff": 0,
+        "saleSpread": 0.5,
+        "saleTariff": 20
+      },
+      "activeCard": true,
+      "activeCash": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e37",
+    "code": 55,
+    "description": "COROA DINAMARQUESA",
+    "isoCode": "DKK",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-08T18:20:41.064Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e38",
+    "code": 57,
+    "description": "COROA",
+    "isoCode": "EEK",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:38.071Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e39",
+    "code": 65,
+    "description": "COROA NORUEGUESA",
+    "isoCode": "NOK",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:40.791Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e3a",
+    "code": 70,
+    "description": "COROA SUECA",
+    "isoCode": "SEK",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:41.870Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e3b",
+    "code": 195,
+    "description": "DOLAR DE CINGAPURA",
+    "isoCode": "SGD",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:42.969Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e3c",
+    "code": 205,
+    "description": "DOLAR DE HONG-KONG",
+    "isoCode": "HKD",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:44.200Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e3d",
+    "code": 245,
+    "description": "DOLAR NOVA ZELANDIA",
+    "isoCode": "NZD",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:45.333Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e3e",
+    "code": 260,
+    "description": "DONGUE/VIETNAN",
+    "isoCode": "VND",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:46.436Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e3f",
+    "code": 425,
+    "description": "FRANCO SUICO",
+    "isoCode": "CHF",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:48.119Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e40",
+    "code": 450,
+    "description": "GUARANI/PARAGUAI",
+    "isoCode": "PYG",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:48.804Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e41",
+    "code": 470,
+    "description": "IENE",
+    "isoCode": "JPY",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:52:50.351Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e42",
+    "code": 660,
+    "description": "NOVOSOL/PERU",
+    "isoCode": "PEN",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:03.526Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e43",
+    "code": 706,
+    "description": "PESO ARGENTINO",
+    "isoCode": "ARS",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:06.241Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e44",
+    "code": 715,
+    "description": "PESO CHILE",
+    "isoCode": "CLP",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:07.429Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e45",
+    "code": 720,
+    "description": "PESO/COLOMBIA",
+    "isoCode": "COP",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:08.779Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e46",
+    "code": 741,
+    "description": "PESO MEXICO",
+    "isoCode": "MXN",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:09.760Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e47",
+    "code": 745,
+    "description": "PESO/URUGUAIO",
+    "isoCode": "UYU",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:10.760Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e48",
+    "code": 785,
+    "description": "RANDE/AFRICASUL",
+    "isoCode": "ZAR",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:11.759Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e49",
+    "code": 790,
+    "description": "REAL",
+    "isoCode": "R$",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:12.938Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e4a",
+    "code": 795,
+    "description": "IUAN RENMIMBI",
+    "isoCode": "CNY",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:13.939Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e4b",
+    "code": 830,
+    "description": "RUBLO/RUSSIA",
+    "isoCode": "RUB",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:15.354Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e4c",
+    "code": 860,
+    "description": "RUPIA/INDIA",
+    "isoCode": "INR",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:16.238Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e4d",
+    "code": 865,
+    "description": "RUPIA/INDONESIA",
+    "isoCode": "IDR",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:18.437Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e4e",
+    "code": 880,
+    "description": "SHEKEL/ISRAEL",
+    "isoCode": "ILS",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:19.630Z"
+  },
+  {
+    "tourism": {
+      "cash": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0,
+        "minimalFace": 10
+      },
+      "card": {
+        "saleSpread": 0,
+        "saleTariff": 0,
+        "buySpread": 0,
+        "buyTariff": 0
+      },
+      "activeCash": true,
+      "activeCard": true
+    },
+    "commercial": {
+      "active": true
+    },
+    "_id": "650205e148f78832699e5e4f",
+    "code": 930,
+    "description": "WON COREIA DO SUL",
+    "isoCode": "KRW",
+    "isActive": false,
+    "isChips": false,
+    "updatedAt": "2023-11-07T17:53:20.750Z"
+  }
+]
